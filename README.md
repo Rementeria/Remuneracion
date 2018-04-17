@@ -2,5 +2,5 @@
 Profesor: Luis Herrera Henriquez.
 Ayudante: Fernando Rubilar.
 
-Proyecto por: Pablo González Rementería
+Proyecto por: Pablo González Rementería,
               Alex Muñoz Zuñiga.
